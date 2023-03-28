@@ -61,9 +61,72 @@
                 </div>
             </div>
         </div>
+        <div class="card-group card_group">
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <small class="text-muted">테스트</small>
+                </div>
+                <div class="card-footer bg-white">
+                    <h5 class="card-title">제목</h5>
+                    <p class="card-text">내용</p>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
-
-
 </body>
 </html>
