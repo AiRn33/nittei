@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://13.125.209.111:56427/nittei?serverTimezone=UTC&characterEncoding=UTF-8&useSSL=false
+    url: jdbc:mysql://52.79.128.134:56740/nittei?serverTimezone=UTC&characterEncoding=UTF-8&useSSL=false
     username: root
     password: 1234
   mvc:
