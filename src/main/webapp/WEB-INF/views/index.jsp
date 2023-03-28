@@ -46,7 +46,7 @@
                         日程
                     </button>
                     <button type="button" class="btn btn-default btn-lg button2" style="margin-top:2px">
-                        Day
+                        Schedule
                     </button>
                     <button type="button" class="btn btn-default btn-lg button3" style="margin-top:2px">
                         일정
@@ -61,13 +61,14 @@
                 </div>
             </div>
         </div>
+
+        <%-- card --%>
         <div class="card-group card_group">
             <div class="card border-dark mb-3">
                 <div class="card-body">
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
@@ -76,7 +77,6 @@
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
@@ -85,7 +85,6 @@
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
@@ -94,7 +93,6 @@
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
@@ -103,7 +101,6 @@
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
@@ -112,7 +109,6 @@
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
@@ -121,7 +117,6 @@
                     <small class="text-muted">테스트</small>
                 </div>
                 <div class="card-footer bg-white">
-                    <h5 class="card-title">제목</h5>
                     <p class="card-text">내용</p>
                 </div>
             </div>
